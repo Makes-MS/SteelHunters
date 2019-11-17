@@ -1,22 +1,22 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://localhost/steelhunters/');
+define('HTTP_SERVER', 'http://localhost/SteelHunters/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://localhost/steelhunters/');
+define('HTTPS_SERVER', 'http://localhost/SteelHunters/');
 
 // DIR
-define('DIR_APPLICATION', 'C:/xampp/htdocs/steelhunters/catalog/');
-define('DIR_SYSTEM', 'C:/xampp/htdocs/steelhunters/system/');
-define('DIR_IMAGE', 'C:/xampp/htdocs/steelhunters/image/');
-define('DIR_LANGUAGE', 'C:/xampp/htdocs/steelhunters/catalog/language/');
-define('DIR_TEMPLATE', 'C:/xampp/htdocs/steelhunters/catalog/view/theme/');
-define('DIR_CONFIG', 'C:/xampp/htdocs/steelhunters/system/config/');
-define('DIR_CACHE', 'C:/xampp/htdocs/steelhunters/system/storage/cache/');
-define('DIR_DOWNLOAD', 'C:/xampp/htdocs/steelhunters/system/storage/download/');
-define('DIR_LOGS', 'C:/xampp/htdocs/steelhunters/system/storage/logs/');
-define('DIR_MODIFICATION', 'C:/xampp/htdocs/steelhunters/system/storage/modification/');
-define('DIR_UPLOAD', 'C:/xampp/htdocs/steelhunters/system/storage/upload/');
+define('DIR_APPLICATION', 'C:/xampp/htdocs/SteelHunters/catalog/');
+define('DIR_SYSTEM', 'C:/xampp/htdocs/SteelHunters/system/');
+define('DIR_IMAGE', 'C:/xampp/htdocs/SteelHunters/image/');
+define('DIR_LANGUAGE', 'C:/xampp/htdocs/SteelHunters/catalog/language/');
+define('DIR_TEMPLATE', 'C:/xampp/htdocs/SteelHunters/catalog/view/theme/');
+define('DIR_CONFIG', 'C:/xampp/htdocs/SteelHunters/system/config/');
+define('DIR_CACHE', 'C:/xampp/htdocs/SteelHunters/system/storage/cache/');
+define('DIR_DOWNLOAD', 'C:/xampp/htdocs/SteelHunters/system/storage/download/');
+define('DIR_LOGS', 'C:/xampp/htdocs/SteelHunters/system/storage/logs/');
+define('DIR_MODIFICATION', 'C:/xampp/htdocs/SteelHunters/system/storage/modification/');
+define('DIR_UPLOAD', 'C:/xampp/htdocs/SteelHunters/system/storage/upload/');
 
 // DB
 define('DB_DRIVER', 'mysqli');
