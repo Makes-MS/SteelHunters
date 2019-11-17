@@ -1,0 +1,2 @@
+2019-11-16 20:10:07 - PHP Warning:  zip_read() expects parameter 1 to be resource, integer given in C:\xampp\htdocs\steelhunters\admin\controller\extension\installer.php on line 137
+2019-11-16 20:10:07 - PHP Warning:  zip_close() expects parameter 1 to be resource, integer given in C:\xampp\htdocs\steelhunters\admin\controller\extension\installer.php on line 203
